@@ -1,0 +1,4 @@
+node_modules/
+*.vim
+*.log
+.DS_STORE
